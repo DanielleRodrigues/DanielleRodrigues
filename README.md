@@ -1,4 +1,4 @@
-<img src="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2020/04/18-Melhores-Ferramentas-de-Colabora%C3%A7ao-Online-para-Trabalho-Remoto.png" width="100%"/>
+<img src="https://www.avepoint.com/blog/wp-content/uploads/2020/05/woman-with-laptop-studying-or-working-concept-table-with-books-lamp-vector-id1164538944.jpg" width="100%"/>
 <p align="center">
   <h2 align="center">Olá, seja bem-vindo(a)</h2> 
     <p align="center">
