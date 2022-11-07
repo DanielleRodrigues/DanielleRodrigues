@@ -2,7 +2,7 @@
 
 <p>Olá, sou a Dani<br/>E estou começando estudos em HTML, CSS e Javascript.Developer em formação <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
  
-- ⚡ Carioca, 24 anos, estudante de ADS(1º período), entusiasta de UX/UI e **maratonista de Netflix.**
+- ⚡ Carioca, 24 anos, estudante de ADS, entusiasta de UX/UI e **maratonista de Netflix.**
 - 📝 Atualmente cursando Bootcamp Javascript FullStack na Generation Brasil e Design de UX do Google.
 
 
