@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1998.<br>📚  Technologist Degree in Systems Analysis and Development(2/6).<br>👨‍💻 I'm currently learning C#.<br>🎲 Fun fact: UI/UX enthusiast.</p>
+<p align="left">✨ Creating bugs since 1998.<br>📚  Technologist Degree in Systems Analysis and Development (2/6).<br>👨‍💻 I'm currently learning C#.<br>🎲 Fun fact: UI/UX enthusiast.</p>
 
 ###
 
@@ -70,8 +70,4 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=daniellerodrigues
-&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
