@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚  Technologist Degree in Systems Analysis and Development (3/6).<br>👨‍💻 I'm currently learning .NET|C#.<br>🎲 Fun fact: UI/UX enthusiast.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚  Technologist Degree in Systems Analysis and Development (6/6).<br>👨‍💻 I'm currently learning .NET|C#.<br>🎲 Fun fact: UI/UX enthusiast.</p>
 
 ###
 
