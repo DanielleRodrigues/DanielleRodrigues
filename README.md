@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<h2 align="left">Frontend</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<h2 align="left">Backend</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">DevOps & Tools</p>
+<h2 align="left">DevOps & Tools</h2>
 
 ###
 
